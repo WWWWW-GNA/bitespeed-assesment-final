@@ -4,7 +4,6 @@
 
 1. Install dependencies:
 
-```bash
 npm install
 
 2. Configure your .env file with your PostgreSQL connection string:
